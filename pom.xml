@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bcldb.service.wsdl</groupId>
-    <artifactId>logging-service-wsdl-business</artifactId>
+    <artifactId>logging-service-wsdl-business1</artifactId>
     <version>2.2.0</version>
 
   <distributionManagement>
