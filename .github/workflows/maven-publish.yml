@@ -23,7 +23,7 @@ jobs:
       uses: actions/upload-artifact@v3.1.2
       with:
         name: githubpkg
-        path: target/logging-service-wsdl-business-2.2.0.jar
+        path: target/logging-service-wsdl-business1-2.2.0.jar
         
     - name: Publish package
       run: mvn --batch-mode deploy
